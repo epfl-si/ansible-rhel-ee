@@ -1,2 +1,4 @@
 ansible-navigator.log
 sftp-config.json
+# Pyenv
+.python-version
